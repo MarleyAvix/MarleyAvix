@@ -94,7 +94,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 
 <div align="center">
 
-### 🌟 Mon portfolio : mon site vitrine](https://github.com/MarleyAvix/Portfolio) <!-- TODO: Remplacez par un projet réel -->
+### 🌟 [Mon portfolio : mon site vitrine](https://github.com/MarleyAvix/Portfolio) <!-- TODO: Remplacez par un projet réel -->
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=Portfolio&theme=tokyonight)](https://github.com/MarleyAvix/Portfolio)
 
