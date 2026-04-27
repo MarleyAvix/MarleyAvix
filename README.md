@@ -94,33 +94,33 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 
 <div align="center">
 
-### 🌟 [Nom du Projet 1 : Application de Productivité](repo-link) <!-- TODO: Remplacez par un projet réel -->
+### 🌟 Mon portfolio : mon site vitrine](https://github.com/MarleyAvix/Portfolio) <!-- TODO: Remplacez par un projet réel -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_1&theme=tokyonight)](repo-link)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_1&theme=tokyonight)](https://github.com/MarleyAvix/Portfolio)
 
-**Stack Technique:** React • Node.js • PostgreSQL
-**Statut:** 🚧 En Développement | ⭐ X Stars | 🍴 Y Forks
-*Description concise de ce que fait cette application et de sa valeur ajoutée.*
-
----
-
-### 🔥 [Nom du Projet 2 : Prototype de Jeu Indépendant](repo-link) <!-- TODO: Remplacez par un projet réel -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_2&theme=tokyonight)](repo-link)
-
-**Stack Technique:** C# • Unity (ou autre moteur) • Git
-**Statut:** 💡 Idéation & Prototypage | ⭐ X Stars | 🍴 Y Forks
-*Une brève description de l'idée du jeu et des mécaniques explorées.*
+**Stack Technique:** React
+**Statut:** 🚧 En Développement 
+*Mon site crée dans le cadre de mon bts sio option slam.*
 
 ---
 
-### ⚡ [Nom du Projet 3 : Outil d'Automatisation (Script Python)](repo-link) <!-- TODO: Remplacez par un projet réel -->
+### 🔥 [Home stock : Site gestion de stockage](https://github.com/MarleyAvix/homeStock) <!-- TODO: Remplacez par un projet réel -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_3&theme=tokyonight)](repo-link)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_2&theme=tokyonight)](https://github.com/MarleyAvix/homeStock)
 
-**Stack Technique:** Python • Automatisation • CLI
-**Statut:** ✅ Complet | ⭐ X Stars | 🍴 Y Forks
-*Un script utile qui simplifie une tâche courante ou résout un petit problème.*
+**Stack Technique:** SQL • PHP • Html
+**Statut:** 💡 Idéation & Prototypage 
+*Projet permetant de gerer un stockage domestique*
+
+---
+
+### ⚡ [Nom du Projet 3 : Outil d'Automatisation (Script Python)](https://github.com/MarleyAvix/FairviewRpSiteWeb) <!-- TODO: Remplacez par un projet réel -->
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_3&theme=tokyonight)](https://github.com/MarleyAvix/FairviewRpSiteWeb)
+
+**Stack Technique:** React
+**Statut:** 🚧 En Développement 
+*Site web pour mon serveur GTA Roleplay*
 
 </div>
 
@@ -130,11 +130,11 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 - 🥇 **[Compétition/Hackathon]** : Par exemple, "Finaliste au Hackathon [Nom]"
 - 📚 **[Matière clé étudiée]** : Par exemple, "Maîtrise des structures de données et algorithmes"-->
 
-## 🎯 Mes Objectifs pour 2024
+## 🎯 Mes Objectifs pour 2026
 <!-- TODO: Mettez à jour avec vos objectifs de l'année en cours -->
-- 🚀 Finaliser un projet d'application majeur et le déployer.
+- 🚀 Mettre une api et un backend pour améliorer mon site static.
 - 📚 Approfondir mes connaissances en architecture logicielle (microservices, patterns).
-- 🎮 Créer un prototype de jeu complet utilisant un moteur de jeu.
+- 🎮 Monter en compétence dans le développement.
 - 🌐 Contribuer à au moins un projet open source.
 
 ## 🌐 Connectons-nous & Collaborons
@@ -145,7 +145,7 @@ Je suis toujours ouvert aux nouvelles opportunités, aux collaborations excitant
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) <!-- TODO: Ajoutez LinkedIn -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)][(https://yourportfolio.com](https://portfolio.marley-avix.fr/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.marley-avix.fr/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marleyavix@outlook.com)
 <!--[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) -->
