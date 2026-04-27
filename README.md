@@ -9,8 +9,8 @@ J'adore relever des défis techniques et transformer des idées, même les plus 
 
 ## 🎯 Mon Focus Actuel & Quelques Stats Rapides
 
-- 🔭 Je travaille actuellement sur : **[Nom du projet en cours]** <!-- TODO: Ajoutez votre projet principal actuel -->
-- 🌱 J'apprends : **[Technologie/Compétence]** <!-- TODO: Ajoutez ce que vous apprenez actuellement -->
+- 🔭 Je travaille actuellement sur : **Un serveur roleplay sur fiveM** <!-- TODO: Ajoutez votre projet principal actuel -->
+- 🌱 J'apprends : **React]** <!-- TODO: Ajoutez ce que vous apprenez actuellement -->
 - 👯 Je cherche à collaborer sur : **des projets Open Source ou des jeux indépendants**
 - 💬 Posez-moi des questions sur : **le développement d'applications, les défis techniques, ou l'intégration de nouvelles fonctionnalités.** <!-- TODO: Ajoutez vos domaines d'expertise -->
 - ⚡ Fait amusant : J'aime analyser les mécaniques de jeu pour comprendre comment elles sont implémentées en coulisses !
@@ -96,7 +96,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 
 ### 🌟 Mon portfolio : mon site vitrine](https://github.com/MarleyAvix/Portfolio) <!-- TODO: Remplacez par un projet réel -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_1&theme=tokyonight)](https://github.com/MarleyAvix/Portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=Portfolio&theme=tokyonight)](https://github.com/MarleyAvix/Portfolio)
 
 **Stack Technique:** React
 **Statut:** 🚧 En Développement 
@@ -106,7 +106,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 
 ### 🔥 [Home stock : Site gestion de stockage](https://github.com/MarleyAvix/homeStock) <!-- TODO: Remplacez par un projet réel -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_2&theme=tokyonight)](https://github.com/MarleyAvix/homeStock)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=homeStock&theme=tokyonight)](https://github.com/MarleyAvix/homeStock)
 
 **Stack Technique:** SQL • PHP • Html
 **Statut:** 💡 Idéation & Prototypage 
@@ -116,7 +116,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 
 ### ⚡ [Nom du Projet 3 : Outil d'Automatisation (Script Python)](https://github.com/MarleyAvix/FairviewRpSiteWeb) <!-- TODO: Remplacez par un projet réel -->
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=PROJECT_NAME_3&theme=tokyonight)](https://github.com/MarleyAvix/FairviewRpSiteWeb)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=FairviewRpSiteWeb&theme=tokyonight)](https://github.com/MarleyAvix/FairviewRpSiteWeb)
 
 **Stack Technique:** React
 **Statut:** 🚧 En Développement 
