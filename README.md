@@ -114,7 +114,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé ou que j'ai imaginé
 
 ---
 
-### ⚡ [Nom du Projet 3 : Outil d'Automatisation (Script Python)](https://github.com/MarleyAvix/FairviewRpSiteWeb) <!-- TODO: Remplacez par un projet réel -->
+### ⚡ [Fairview Rp Site Web : Site web](https://github.com/MarleyAvix/FairviewRpSiteWeb) <!-- TODO: Remplacez par un projet réel -->
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MarleyAvix&repo=FairviewRpSiteWeb&theme=tokyonight)](https://github.com/MarleyAvix/FairviewRpSiteWeb)
 
