@@ -10,7 +10,7 @@ J'adore relever des défis techniques et transformer des idées, même les plus 
 ## 🎯 Mon Focus Actuel & Quelques Stats Rapides
 
 - 🔭 Je travaille actuellement sur : **Un serveur roleplay sur fiveM** <!-- TODO: Ajoutez votre projet principal actuel -->
-- 🌱 J'apprends : **React]** <!-- TODO: Ajoutez ce que vous apprenez actuellement -->
+- 🌱 J'apprends : **React** <!-- TODO: Ajoutez ce que vous apprenez actuellement -->
 - 👯 Je cherche à collaborer sur : **des projets Open Source ou des jeux indépendants**
 - 💬 Posez-moi des questions sur : **le développement d'applications, les défis techniques, ou l'intégration de nouvelles fonctionnalités.** <!-- TODO: Ajoutez vos domaines d'expertise -->
 - ⚡ Fait amusant : J'aime analyser les mécaniques de jeu pour comprendre comment elles sont implémentées en coulisses !
