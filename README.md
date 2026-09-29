@@ -8,7 +8,7 @@ Avant l'informatique, j'ai passé 14 ans dans la menuiserie, l'industrie et l'é
 
 ## En ce moment
 
-- Au Département, je mène la refonte d'un outil de ticketing interne, en C# / .NET avec Blazor. On est en phase de cadrage : réunions avec les utilisateurs et la hiérarchie, user stories, choix de la stack.
+- Au Département, je mène la refonte d'un outil support interne, en C# / .NET avec Blazor. On est en phase de cadrage : réunions avec les utilisateurs et la hiérarchie, user stories, choix de la stack.
 - Mon projet d'examen (E6) : une suite documentaire avec un assistant IA. L'infrastructure est en place (Proxmox, FreeIPA, Keycloak, Forgejo, Grafana, BookStack), le développement reste à faire.
 - Je m'entraîne à coder plus sans assistance, et je n'ai pas encore écrit de tests unitaires : c'est ce que je vais ajouter en premier.
 
