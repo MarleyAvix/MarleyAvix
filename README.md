@@ -1,36 +1,57 @@
-# Marley Avix
+<h1 align="center">Marley Avix</h1>
 
-Développeur en reconversion, basé à Angers. Je suis en BTS SIO option SLAM et en alternance au Conseil Départemental de la Mayenne.
+<p align="center">
+  Développeur web en reconversion · C# / .NET · Vue.js · déploiement d'applications<br>
+  Angers · en <b>BTS SIO SLAM</b>, alternance au Conseil Départemental de la Mayenne
+</p>
 
-**Je cherche une alternance pour un Bachelor Développeur Web, à partir de septembre 2027.**
+<p align="center">
+  <a href="https://portfolio.marley-avix.fr/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-marley--avix.fr-2563eb?style=flat-square"></a>
+  <a href="https://linkedin.com/in/marleyavix"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marley_Avix-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:marleyavix@outlook.fr"><img alt="Email" src="https://img.shields.io/badge/Email-marleyavix@outlook.fr-475569?style=flat-square"></a>
+</p>
 
-Avant l'informatique, j'ai passé 14 ans dans la menuiserie, l'industrie et l'éducation. Je viens du terrain, et ça se retrouve dans ma façon de travailler : je préfère comprendre ce dont les gens ont besoin avant de coder.
+> **Je cherche une alternance pour un Bachelor Développeur Web, à partir de septembre 2027.**
+> Avant le code, j'ai passé 14 ans en menuiserie, industrie et éducation. J'aime comprendre le besoin avant de développer, puis livrer et héberger moi-même ce que je construis.
 
 ## En ce moment
 
-- Au Département, je mène la refonte d'un outil support interne, en C# / .NET avec Blazor. On est en phase de cadrage : réunions avec les utilisateurs et la hiérarchie, user stories, choix de la stack.
-- Mon projet d'examen (E6) : une suite documentaire avec un assistant IA. L'infrastructure est en place (Proxmox, FreeIPA, Keycloak, Forgejo, Grafana, BookStack), le développement reste à faire.
-- Je m'entraîne à coder plus sans assistance, et je n'ai pas encore écrit de tests unitaires : c'est ce que je vais ajouter en premier.
-
-## Ce que j'utilise
-
-- **Au travail :** SQL / Oracle, Excel, SharePoint, Jaspersoft Studio, SAP BusinessObjects, C# / .NET
-- **Sur mes projets :** Vue.js, React, TypeScript, Docker, Linux, Git, Keycloak, Coolify
-- **Vu en cours :** PHP / Symfony, Python
+- **Conseil Départemental de la Mayenne.** Je mène la refonte d'un outil de ticketing interne en C# / .NET (Blazor). En phase de cadrage : réunions avec les utilisateurs et la hiérarchie, user stories, priorisation MoSCoW, définition du MVP.
+- **Projet d'examen E6.** Suite documentaire avec assistant IA. L'infrastructure est posée, le développement (ASP.NET Core, Vue.js) démarre.
+- **Prochaine étape.** Ajouter des tests unitaires à mes projets .NET.
 
 ## Projets
 
-- **Suite documentaire et assistant IA** (examen E6, en cours) : gestion de documents avec droits d'accès et assistant IA pour interroger les procédures internes.
-- **Plateforme de déploiement** : Coolify sur un VPS Linux, où j'héberge mes applications.
-- **[Moevia Voyage](https://portfolio.marley-avix.fr/projects/moevia-voyage)** : site en Vue.js, du besoin à la mise en ligne.
-- **[Fairview RP](https://github.com/MarleyAvix/FairviewRpSiteWeb)** : site d'un serveur de jeu roleplay, en React.
-- **[Script-Marley](https://github.com/MarleyAvix/Script-Marley)** : scripts Lua pour ce même serveur.
-- **[homeStock](https://github.com/MarleyAvix/homeStock)** : gestion d'un stock domestique avec suivi des dates de péremption (prototype).
+### Infrastructure sécurisée et suite documentaire (examen E6, en cours)
 
-Beaucoup de mes projets sont dans des dépôts privés. Le [portfolio](https://portfolio.marley-avix.fr/) en présente une partie.
+Une entreprise fictive complète, montée de zéro : virtualisation **Proxmox**, réseau segmenté, identités centralisées avec **FreeIPA**, SSO **Keycloak**, applications en conteneurs, forge **Forgejo**, supervision **Grafana**, documentation sur **BookStack** alimentée via son API. L'application documentaire (droits d'accès, assistant IA) vient par-dessus.
 
-## Me contacter
+### Plateforme de déploiement auto-hébergée
 
-- [LinkedIn](https://linkedin.com/in/marleyavix)
-- [Portfolio](https://portfolio.marley-avix.fr/)
-- marleyavix@outlook.fr
+**Coolify** sur un VPS Linux : je déploie et héberge mes propres applications web (Docker, déploiement automatisé depuis Git).
+
+### Moevia Voyage
+
+Site web en **Vue.js**, mené du recueil du besoin jusqu'à la mise en production. [Voir la fiche](https://portfolio.marley-avix.fr/projects/moevia-voyage)
+
+<details>
+<summary>Autres projets</summary>
+<br>
+
+- [Fairview RP](https://github.com/MarleyAvix/FairviewRpSiteWeb) : site d'un serveur de jeu roleplay (React, TypeScript)
+- [Script-Marley](https://github.com/MarleyAvix/Script-Marley) : scripts Lua pour ce même serveur
+- [homeStock](https://github.com/MarleyAvix/homeStock) : prototype de gestion de stock domestique avec suivi des péremptions (PHP, SQL)
+- [Portfolio](https://github.com/MarleyAvix/Portfolio) : mon portfolio BTS SIO (React, TypeScript)
+
+</details>
+
+Une grande partie de mon travail est dans des dépôts privés. Le [portfolio](https://portfolio.marley-avix.fr/) en présente davantage.
+
+## Technologies
+
+| | |
+|---|---|
+| **En entreprise** | `C#` `.NET` `SQL / Oracle` `Excel` `SharePoint` `Jaspersoft` `SAP BusinessObjects` |
+| **En projet** | `Vue.js` `React` `TypeScript` `Lua` `Docker` `Linux` `Git` |
+| **Infra** | `Proxmox` `Keycloak` `FreeIPA` `Coolify` `Forgejo` `Grafana` |
+| **Vu en cours** | `PHP / Symfony` `Python` |
