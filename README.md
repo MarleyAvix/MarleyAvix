@@ -22,6 +22,10 @@
 
 ## Projets
 
+### [MCDraw](https://github.com/MarleyAvix/MCDraw)
+
+Un éditeur de diagrammes **dans le navigateur**, sans compte ni serveur : le diagramme tient dans le lien de partage. Un modèle conceptuel Merise devient un schéma relationnel, du **SQL** (PostgreSQL, MySQL, SQLite, SQL Server), du code **EF Core / Prisma / TypeORM** et des données de test. S'y ajoutent des descriptions d'API exportées en **OpenAPI 3.1**, des diagrammes de séquence et d'états (**Mermaid**, **PlantUML**), un plan de site et une carte mentale. Fait en **Vue 3**, **TypeScript** et **Tailwind**, testé avec **Vitest** et **Playwright**.
+
 ### Infrastructure sécurisée et suite documentaire (examen E6, en cours)
 
 Une entreprise fictive complète, montée de zéro : virtualisation **Proxmox**, réseau segmenté, identités centralisées avec **FreeIPA**, SSO **Keycloak**, applications en conteneurs, forge **Forgejo**, supervision **Grafana**, documentation sur **BookStack** alimentée via son API. L'application documentaire (droits d'accès, assistant IA) vient par-dessus.
